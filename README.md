@@ -17,7 +17,7 @@ Automation Specialist
 
 - 🚀 Passionate about **CI/CD automation**, containerisation, and cloud-native infrastructure
 - 🛠️ I turn manual, error-prone deployments into **fully automated, self-healing pipelines**
-- ☁️ Experienced with **AWS / GCP / Azure**, Kubernetes, Terraform, and Docker
+- ☁️ Experienced with **AWS / Azure**, Kubernetes, Terraform, and Docker, Ansible
 - 📈 Believer in infrastructure as code, observability-first design, and zero-downtime deployments
 
 ---
