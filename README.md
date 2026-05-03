@@ -80,22 +80,7 @@ Automation Specialist
 
 ---
 
-## Certifications & Learning
 
-- 🎓 Working towards **AWS Certified DevOps Engineer – Professional**
-- 📚 Studying **Certified Kubernetes Administrator (CKA)**
-- 🏅 *Add any certs you already hold here*
-
----
-
-## Let's Connect
-
-I'm open to **DevOps Engineer**, **Cloud Engineer**, and **Platform Engineer** roles. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammedkhann&color=blue&style=flat-square" alt="Profile views" />
