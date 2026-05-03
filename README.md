@@ -36,7 +36,7 @@ Automation Specialist
 **CI/CD & Version Control**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AzureDevops](https://img.shields.io/badge/AzureDevops-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![AzureDevops](AzureDevops-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Monitoring & Observability**
