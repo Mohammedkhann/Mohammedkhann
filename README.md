@@ -65,16 +65,6 @@ Automation Specialist
 
 </div>
 
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔁 [CI/CD Pipeline on AWS EKS](https://github.com/Mohammedkhann/cicd-eks-pipeline) | Full end-to-end pipeline deploying a containerised app to Kubernetes | GitHub Actions · AWS EKS · Docker |
-| 🏗️ [Cloud Infrastructure with Terraform](https://github.com/Mohammedkhann/terraform-aws-infra) | IaC project provisioning VPC, EC2, RDS, and S3 on AWS | Terraform · AWS · Bash |
-| 📦 [Dockerised Microservices App](https://github.com/Mohammedkhann/docker-microservices) | Multi-service app with Docker Compose, reverse proxy, and health checks | Docker · Nginx · Python |
-| 📊 [Monitoring Stack](https://github.com/Mohammedkhann/prometheus-grafana-stack) | Self-hosted observability stack with custom dashboards and alerting | Prometheus · Grafana · Docker |
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammedkhann&color=blue&style=flat-square" alt="Profile views" />
