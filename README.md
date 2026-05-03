@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohammed Khan
-### DevOps Engineer | Cloud Infrastructure | Automation Enthusiast
+Automation Specialist
 
 *Building reliable, scalable systems — one pipeline at a time.*
 
