@@ -76,12 +76,6 @@ Automation Specialist
 | 📦 [Dockerised Microservices App](https://github.com/Mohammedkhann/docker-microservices) | Multi-service app with Docker Compose, reverse proxy, and health checks | Docker · Nginx · Python |
 | 📊 [Monitoring Stack](https://github.com/Mohammedkhann/prometheus-grafana-stack) | Self-hosted observability stack with custom dashboards and alerting | Prometheus · Grafana · Docker |
 
-> ⚡ *Replace the links above with your actual repository URLs once created.*
-
----
-
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammedkhann&color=blue&style=flat-square" alt="Profile views" />
 </div>
